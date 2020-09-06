@@ -1,0 +1,5 @@
+url: https://github.com/willvrd/vblog-module
+versions:
+  "0.0.1":
+      added:
+        - Initial version

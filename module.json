@@ -1,0 +1,14 @@
+{
+    "name": "Vblog",
+    "alias": "vblog",
+    "description": "Vblog Module",
+    "version": "0.0.1",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Vblog\\Providers\\VblogServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
