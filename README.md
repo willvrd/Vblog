@@ -1,8 +1,10 @@
-# Laravel - Vblog Module
+# VGreen Application - Vblog Module
 
-## Requirements
+## Installation
+```bash
+composer require willvrd/vblog-module
+```
    
-
 ## Steps
 
     1.  Run migration:
@@ -32,5 +34,8 @@ Route Base: `https://yourhost.com/api/vblog/v1/`
     
         Index:  http://mysite/backend/vblog/posts
         name:    admin.vblog.posts.index
+
+        Index:  http://mysite/backend/vblog/categories
+        name:    admin.vblog.categories.index
 
 
